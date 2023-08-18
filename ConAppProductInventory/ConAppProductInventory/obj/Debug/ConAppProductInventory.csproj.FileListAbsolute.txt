@@ -1,0 +1,8 @@
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.exe.config
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.exe
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.pdb
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.csproj.SuggestedBindingRedirects.cache
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.exe
+D:\MYSQL\Phase-2\Day-6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.pdb

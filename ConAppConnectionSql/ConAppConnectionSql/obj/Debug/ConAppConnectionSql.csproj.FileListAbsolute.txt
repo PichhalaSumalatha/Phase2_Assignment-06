@@ -1,0 +1,8 @@
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\bin\Debug\ConAppConnectionSql.exe.config
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\bin\Debug\ConAppConnectionSql.exe
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\bin\Debug\ConAppConnectionSql.pdb
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\obj\Debug\ConAppConnectionSql.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\obj\Debug\ConAppConnectionSql.csproj.SuggestedBindingRedirects.cache
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\obj\Debug\ConAppConnectionSql.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\obj\Debug\ConAppConnectionSql.exe
+D:\MYSQL\Phase-2\Day-6\ConAppConnectionSql\ConAppConnectionSql\obj\Debug\ConAppConnectionSql.pdb
